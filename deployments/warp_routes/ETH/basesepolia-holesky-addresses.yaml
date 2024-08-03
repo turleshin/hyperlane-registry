@@ -1,0 +1,4 @@
+basesepolia:
+  native: "0x74690B92a66b7125F86783900B1d227e66813f12"
+holesky:
+  native: "0x31861e286A4C5d29d68f4D514B7421109cb48FA1"
