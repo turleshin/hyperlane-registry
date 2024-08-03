@@ -5,6 +5,7 @@ tokens:
     decimals: 18
     symbol: ETH
     name: Ether
+    logo: '/deployments/warp_routes/ETH/logo.svg'
     addressOrDenom: "0x74690B92a66b7125F86783900B1d227e66813f12"
     connections:
       - token: ethereum|holesky|0x31861e286A4C5d29d68f4D514B7421109cb48FA1
@@ -13,6 +14,7 @@ tokens:
     decimals: 18
     symbol: ETH
     name: Ether
+    logo: '/deployments/warp_routes/ETH/logo.svg'
     addressOrDenom: "0x31861e286A4C5d29d68f4D514B7421109cb48FA1"
     connections:
       - token: ethereum|basesepolia|0x74690B92a66b7125F86783900B1d227e66813f12
