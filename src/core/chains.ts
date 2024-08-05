@@ -109,4 +109,4 @@ export const CoreTestnets: Array<CoreChainName> = [
   CoreChain.superpositiontestnet,
 ];
 
-export const CoreChains: Array<CoreChainName> = [...CoreMainnets, ...CoreTestnets];
+export const CoreChains: Array<CoreChainName> = [...CoreTestnets];
